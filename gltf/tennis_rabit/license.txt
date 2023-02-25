@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tennis
+* source:	https://sketchfab.com/3d-models/tennis-50fac33a7f234cae901f4b9c012906d1
+* author:	xenera (https://sketchfab.com/xenera)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tennis" (https://sketchfab.com/3d-models/tennis-50fac33a7f234cae901f4b9c012906d1) by xenera (https://sketchfab.com/xenera) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
