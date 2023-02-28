@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tenis Nike
+* source:	https://sketchfab.com/3d-models/tenis-nike-00089a40101d4c1487edf050b94f6008
+* author:	ElPinguinoCoyosaurio (https://sketchfab.com/elcoyotesd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tenis Nike" (https://sketchfab.com/3d-models/tenis-nike-00089a40101d4c1487edf050b94f6008) by ElPinguinoCoyosaurio (https://sketchfab.com/elcoyotesd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

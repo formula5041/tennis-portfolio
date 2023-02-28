@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tennis machine with balls (low poly)
+* source:	https://sketchfab.com/3d-models/tennis-machine-with-balls-low-poly-00b59b81954f44a3932c229577e5e12f
+* author:	Sorcery Arts (https://sketchfab.com/ledzabelin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tennis machine with balls (low poly)" (https://sketchfab.com/3d-models/tennis-machine-with-balls-low-poly-00b59b81954f44a3932c229577e5e12f) by Sorcery Arts (https://sketchfab.com/ledzabelin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

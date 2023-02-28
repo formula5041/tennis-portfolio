@@ -65,14 +65,14 @@ scene.background = spaceTexture;
 
 // Avatar
 
-const tennisTexture = new THREE.TextureLoader().load('tennis.png');
+const redTennisTexture = new THREE.TextureLoader().load('red_tennis.png');
 
-const tennis = new THREE.Mesh(new THREE.BoxGeometry(3, 3, 3), new THREE.MeshBasicMaterial({ map: tennisTexture }));
+const redTennis = new THREE.Mesh(new THREE.BoxGeometry(3, 3, 3), new THREE.MeshBasicMaterial({ map: redTennisTexture }));
 
-tennis.position.z = -5;
-tennis.position.x = 2;
+redTennis.position.z = -5;
+redTennis.position.x = 2;
 
-scene.add(tennis);
+scene.add(redTennis);
 
 
 
@@ -116,7 +116,7 @@ async function addBall() {
 
 Array(100).fill().forEach(addBall);
 
-// Tennis Rabit
+// redTennis Rabit
 const rabit = await loader.loadAsync('./gltf/tennis_rabit/scene.gltf')
 .then((res)=>{
   return res.scenes[0].children[0]
@@ -129,6 +129,34 @@ rabit.rotation.z = 14.7;
 
 scene.add(rabit);
 
+// tennis machine
+const machine = await loader.loadAsync('./gltf/tennis_machine/scene.gltf')
+.then((res)=>{
+  return res.scenes[0].children[0]
+})
+
+machine.position.z = 6;
+machine.position.setX(4);
+machine.position.setY(2);
+machine.rotation.z = 11.5;
+
+scene.add(machine);
+
+// tennis nike
+const nike = await loader.loadAsync('./gltf/tennis_nike/scene.gltf')
+.then((res)=>{
+  return res.scenes[0].children[0]
+})
+
+nike.scale.set(10,10,10)
+nike.position.z = 6;
+nike.position.setX(-4);
+nike.position.setY(-3);
+nike.position.setZ(22);
+nike.rotation.z = 14.55;
+
+scene.add(nike);
+
 
 // Scroll Animation
 
@@ -138,8 +166,8 @@ function moveCamera() {
   ball.rotation.y += 0.075;
   ball.rotation.z += 0.05;
 
-  tennis.rotation.y += 0.01;
-  tennis.rotation.z += 0.01;
+  redTennis.rotation.y += 0.01;
+  redTennis.rotation.z += 0.01;
 
 
 
