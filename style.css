@@ -86,3 +86,6 @@ canvas {
   .left {
     grid-column: 6 / 12;
   }
+.side-project-item {
+  margin-left: 20px;
+}
